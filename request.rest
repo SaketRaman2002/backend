@@ -1,0 +1,12 @@
+# GET http://localhost:5000/login
+
+###
+
+POST http://localhost:3000/login
+Content-Type:application/json
+
+{
+    "fileType" : "cpp", 
+    "code" :  ["saket","raman"]
+
+}
